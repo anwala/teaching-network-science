@@ -1,4 +1,4 @@
-<img align="left" width="120" height="120" src="https://raw.githubusercontent.com/anwala/teaching-network-science/main/spring-2023/wm_vertical_stacked_full_color.png" alt="wm_vertical_stacked_full_color">
+<img align="left" width="120" height="120" src="https://github.com/anwala/teaching-web-science/blob/main/fall-2022/wm_vertical_stacked_full_color.png" alt="wm_vertical_stacked_full_color">
 
 # W&M DATA 340-02 - Network Science, Spring 2023 Syllabus
 
