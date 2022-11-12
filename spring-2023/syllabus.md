@@ -55,11 +55,13 @@ Here are some good Intro to Python resources:
 
 ### Textbook
 
-The recommeded textbook for this class is: 
+The recommended textbook for this class is: 
 
 > Menczer, F., Fortunato, S., & Davis, C. (2020). [A First Course in Network Science](https://www.amazon.com/First-Course-Network-Science/dp/1108471137). Cambridge: Cambridge University Press. doi:10.1017/9781108653947
 
-Reach out to me if you're unable to get a personal copy.
+Reach out to me if you're unable to get a personal copy. See also,
+
+> [Textbook Github account](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience)
 
 ## Grading
 
@@ -75,14 +77,15 @@ I will post all assignments on our DATA 340-02 Piazza forum. Your grade in this 
 * *Don't wait until the last minute --- some are hard and time-consuming!*
 * All work must be your own. You may use resources (e.g., Stack Overflow) on the Internet for reference. If you use online resources, you must cite your sources (including URL). Group work on HW assignments is not acceptable.
 
-**Participation/Attendance** - 20 points
+**Participation/Attendance** - **20** points
 
 Participation is very important, it improves learning and contributes additional dimensions to discussions. I'd encourage participation by assigning scores to the following activities throughout the semester:
 * 10 points maximum per week: Engaging in productive discussions in class: asking/answering questions and contributing new ideas, and posting a solution or replying to a question on Piazza
 * 10 points maximum per week: Unannounced in-class quizzes
 
-**Midterm exam** - 10 points
-**Final exam**   - 10 points
+**Midterm exam** - **10** points
+
+**Final exam**   - **10** points
 
 ### Grading Scale
 
