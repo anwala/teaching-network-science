@@ -3,7 +3,7 @@
 ## Links
 
 * [Syllabus](syllabus.md)
-* [Lecture Slides](https://drive.google.com/drive/folders/1325IMSX4rHEbteEzYPu7aI6jcLevFOy0?usp=share_link) (Coming soon...)
+* [Lecture Slides](https://drive.google.com/drive/folders/1325IMSX4rHEbteEzYPu7aI6jcLevFOy0?usp=share_link) (Google Drive folder - access required)
 
 ## Summary Schedule
 
