@@ -78,9 +78,8 @@ I will post all assignments on our DATA 340-02 Piazza forum. Your grade in this 
 **Participation/Attendance** - 20 points
 
 Participation is very important, it improves learning and contributes additional dimensions to discussions. I'd encourage participation by assigning scores to the following activities throughout the semester:
-* XX point maximum per week: Engaging in productive discussions in class: asking/answering questions and contributing new ideas
-* XX point maximum per week: Posting a solution or replying to a question on Piazza
-* XX point maximum per week: Review of questions based on assigned readings and lectures
+* 10 points maximum per week: Engaging in productive discussions in class: asking/answering questions and contributing new ideas, and posting a solution or replying to a question on Piazza
+* 10 points maximum per week: Unannounced in-class quizzes
 
 **Midterm exam** - 10 points
 **Final exam**   - 10 points

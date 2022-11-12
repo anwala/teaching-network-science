@@ -3,14 +3,14 @@
 ## Links
 
 * [Syllabus](syllabus.md)
-* [Lecture Slides](#) (Coming soon...)
+* [Lecture Slides](https://drive.google.com/drive/folders/1325IMSX4rHEbteEzYPu7aI6jcLevFOy0?usp=share_link) (Coming soon...)
 
 ## Summary Schedule
 
 |Week |Lecture Dates|Topic|Homeworks (Date assigned -- Due Date)
 |---|---|---|---|
 |1|Jan 26        |Introductions|
-|2|Jan 31 & Feb 2|Introduction to Python| [Python Google Colab notebook](week-2/data_440_03_f22_mod_02_python.ipynb)<br/>[Python lab exercises](week-2/data_440_03_f22_mod_02_lab.ipynb)<br/> [HW1](homework/hw1) - Web Sci. Intro, Sep 13 -- 27
+|2|Jan 31 & Feb 2|Network Elements| [Python Google Colab notebook](week-2/data_340_02_s23_mod_02_network_elements.ipynb)<br/> [HW1](homework/hw1) - Network elements, Feb 2 -- 9
 |3|Feb  7 & 9    |Introduction to Info Vis with R, Python|[InfoVis in R Colab notebook](week-3/data_440_03_f22_mod_03_info_vis_r.ipynb)<br/>[InfoVis in Python Colab notebook](week-3/data_440_03_f22_mod_03_info_vis_python.ipynb)|
 |4|Feb 14 & 16   |Measuring the Web|
 |5|Feb 21 & 23   |Archiving the Web| [HW2](homework/hw2) - Archiving the Web, Sep 29 -- Oct 11
