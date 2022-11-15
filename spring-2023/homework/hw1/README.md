@@ -18,17 +18,17 @@ Now implement functions for Exercises 1 -- 3
 
 Consider this adjacency matrix.
 
-<img src="adj_mat.png" alt="Ajacency matrix for hw1 Q2" height="100"><br/>
+<img src="adj_mat.png" alt="Ajacency matrix for hw1 Q2" height="200"><br/>
 
 An entry in the *i*th row and *j*th column indicates the weight of the link from node i to node j. For instance, the entry in the second row and third column is 2, meaning the weight of the link from node **B** to node **C** is 2. What kind of network does this matrix represent?
 
-a. Undirected, unweighted
+**a.** Undirected, unweighted
 
-b. Undirected, weighted
+**b.** Undirected, weighted
 
-c. Directed, unweighted
+**c.** Directed, unweighted
 
-d. Directed, weighted
+**d.** Directed, weighted
 
 Why?
 
