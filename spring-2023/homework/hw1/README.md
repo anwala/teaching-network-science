@@ -21,9 +21,13 @@ Consider this adjacency matrix.
 <img src="adj_mat.png" alt="Ajacency matrix for hw1 Q2" height="100"><br/>
 
 An entry in the *i*th row and *j*th column indicates the weight of the link from node i to node j. For instance, the entry in the second row and third column is 2, meaning the weight of the link from node **B** to node **C** is 2. What kind of network does this matrix represent?
+
 a. Undirected, unweighted
+
 b. Undirected, weighted
+
 c. Directed, unweighted
+
 d. Directed, weighted
 
 Why?
