@@ -32,41 +32,15 @@ An entry in the *i*th row and *j*th column indicates the weight of the link from
 
 Why?
 
-### Q3 (3 points)
-Write a Python program to find links to PDFs in a webpage.
+### Q3 (2 points)
 
-Your program must do the following:
-* take the URI of a webpage as a command-line argument
-* extract all the links from the page
-* for each link, request the URI and use the `Content-Type` HTTP response header to determine if the link references a PDF file 
-* for all links that reference a PDF file, print the original URI (found in the parent HTML page), the final URI (after any redirects), and the number of bytes in the PDF file. (Hint: `Content-Length` HTTP response header)
+Consider the network defined by the adjacency matrix in Q2. How many nodes are in this network? How many links? Are there any self-loops?
 
-Here is a snippet of the expected operation:
+Discuss how you arrived at your answer.
 
-```
-% python3 get_pdfs.py https://alexandernwala.com/files/teaching/fall-2022/week-2/2018_wsdl_publications.html
+### Q4 (1 point)
 
-URI: http://www.cs.odu.edu/~mln/pubs/ht-2018/hypertext-2018-nwala-bootstrapping.pdf
-Final URI: https://www.cs.odu.edu/~mln/pubs/ht-2018/hypertext-2018-nwala-bootstrapping.pdf
-Content Length: 994,153 bytes
-
-URI: http://www.cs.odu.edu/~mln/pubs/ipres-2018/ipres-2018-atkins-news-similarity.pdf
-Final URI: https://www.cs.odu.edu/~mln/pubs/ipres-2018/ipres-2018-atkins-news-similarity.pdf
-Content Length: 18,995,885 bytes
-```
-
-Show that the program works on 3 different URIs, one of which must be https://alexandernwala.com/files/teaching/fall-2022/week-2/2018_wsdl_publications.html, which contains 8 links to PDFs. 
-* Many [W&M DS faculty members](https://www.wm.edu/as/data-science/people/index.php) have a list of their publications in PDF form on their webpages. You may search their webpages for URIs to use.
-* Also, there are a set of pages linked on our [DATA 440 Syllabus](https://github.com/anwala/teaching-web-science/blob/main/fall-2022/syllabus.md) that say "pdf available".  If you follow some of those links, you'll likely find a page that links to at least one PDF.
-
-You will likely want to use the BeautifulSoup Python library for this question. Run ``pip3 install beautifulsoup4`` to install BeautifulSoup4. I highly recommend that you install Python packages inside your [Python virtual environment](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/): 
-```
-$ python3 -m venv p3_env     # Creates a Python 3 virtual environment in a directory called p3_env
-$ source p3_env/bin/activate # Activates your Python 3 virtual environment. All new packages will be installed in py_env
-
-$ which python               # Shows the path of your virtual env's Python
-$ deactivate                 # Deactivates your Python virtual environment
-```
+Webflix keeps data on customer preferences using a bipartite network connecting users to movies they have watched and/or rated. Webflix's movie library contains approximately 1,000 movies. In the fourth quarter of 2022, Webflix reported having about 5,000 users. Also, on average, a user has watched and/or rated 750 movies. Approximately how many links are in this network? Would you consider this network sparse or dense? Explain.
 
 ## Submission
 
