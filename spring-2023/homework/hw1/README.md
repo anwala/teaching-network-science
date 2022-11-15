@@ -4,55 +4,29 @@
 
 ## Assignment
 
-Write a report that contains the answers and *explains how you arrived at the answers* to the following questions. Before starting, review the [HW report guidelines](https://github.com/anwala/teaching-web-science/blob/main/fall-2022/homework/hw0/reports.md).  Name your report for this assignment `hw1_report` with the proper file extension.
+Write a report that contains the answers and *explains how you arrived at the answers* to the following questions. Before starting, review the [HW report guidelines](https://github.com/anwala/teaching-network-science/blob/main/spring-2023/homework/hw0/README.md).  Name your report for this assignment `hw1_report` with the proper file extension.
 
 (**Report (2 points**)
 
-### Q1 (2 points)
-Consider the "bow-tie" structure of the web in the Broder et al. paper ["Graph Structure in the Web"](https://web.archive.org/web/20220505225729/https://snap.stanford.edu/class/cs224w-readings/broder00bowtie.pdf) that was described in Module 1. 
+### Q1 (3 points)
 
-Now consider the following links:
+Go through the [tutorial on Network elements](https://github.com/anwala/teaching-network-science/blob/main/spring-2023/week-2/data_340_02_s23_mod_02_network_elements.ipynb).
 
-```text
-A --> B
-B --> C
-C --> D
-C --> A
-C --> G
-E --> F
-G --> C
-G --> H
-I --> H
-I --> K
-L --> D
-M --> A
-M --> N
-N --> D
-O --> A
-P --> G 
-```
-
-Draw the resulting [directed graph](https://en.wikipedia.org/wiki/Directed_graph) (either sketch on paper or use another tool) showing how the nodes are connected to each other and include an image in your report.  This does not need to fit into the bow-tie type diagram, but should look more similar to the graph on slide 24 from [Module-01 Web-Science-Architecture](https://docs.google.com/presentation/d/1sSNcXMBUJWb-rVbTEvKqFAC2SvJugI8m/edit#slide=id.p24).
-
-For the graph, list the nodes (in alphabetical order) that are each of the following categories:
-* SCC: 
-* IN: 
-* OUT: 
-* Tendrils: 
-    * indicate if the tendril is reachable from IN or can reach OUT
-* Tubes: 
-    * explain how the nodes serve as tubes
-* Disconnected:
+Now implement functions for Exercises 1 -- 3    
     
-    
-### Q2 (3 points)
-Demonstrate that you know how to use `curl` and are familiar with the available options.
+### Q2 (2 points)
 
-a) First, load this URI [https://httpbin.org/user-agent](https://httpbin.org/user-agent) directly in your browser and take a screenshot.  The resulting webpage should show the "User-Agent" HTTP request header that your web browser sends to the web server.
+Consider this adjacency matrix.
 
-b) In a single `curl` command, issue a `HEAD` HTTP request for the URI, [https://t.co/EYgdZgrm2W](https://t.co/EYgdZgrm2W). Show the HTTP response headers, follow any redirects, and change the User-Agent HTTP request field to "DATA 440."  Show the command you issued and the result of your execution on the command line.  (Either take a screenshot of your terminal or copy/paste into a code segment.)
+<img src="adj_mat.png" alt="Ajacency matrix for hw1 Q2" height="100"><br/>
 
-Briefly explain the results you get for each of these steps.
+An entry in the *i*th row and *j*th column indicates the weight of the link from node i to node j. For instance, the entry in the second row and third column is 2, meaning the weight of the link from node **B** to node **C** is 2. What kind of network does this matrix represent?
+a. Undirected, unweighted
+b. Undirected, weighted
+c. Directed, unweighted
+d. Directed, weighted
+
+Why?
 
 ### Q3 (3 points)
 Write a Python program to find links to PDFs in a webpage.
