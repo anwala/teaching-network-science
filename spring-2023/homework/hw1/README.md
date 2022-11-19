@@ -6,13 +6,13 @@
 
 Write a report that contains the answers and *explains how you arrived at the answers* to the following questions. Before starting, review the [HW report guidelines](https://github.com/anwala/teaching-network-science/blob/main/spring-2023/homework/hw0/README.md).  Name your report for this assignment `hw1_report` with the proper file extension.
 
-(**Report (2 points**)
+(**Google Colab Report (2 points**)
 
 ### Q1 (3 points)
 
 Go through the [tutorial on Network elements](https://github.com/anwala/teaching-network-science/blob/main/spring-2023/week-2/data_340_02_s23_mod_02_network_elements.ipynb).
 
-Now implement functions for Exercises 1 -- 3    
+Implement functions for Exercises 1 -- 3    
     
 ### Q2 (2 points)
 

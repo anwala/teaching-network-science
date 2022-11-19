@@ -11,7 +11,7 @@
 |---|---|---|---|
 |1|Jan 26        |Introductions|[Writing reports](homework/hw0)|
 |2|Jan 31 & Feb 2|Network Elements| [Python Google Colab notebook](week-2/data_340_02_s23_mod_02_network_elements.ipynb)<br/> [HW1](homework/hw1) - Network elements, Feb 2 -- 9
-|3|Feb  7 & 9    |Introduction to Info Vis with R, Python|[InfoVis in R Colab notebook](week-3/data_440_03_f22_mod_03_info_vis_r.ipynb)<br/>[InfoVis in Python Colab notebook](week-3/data_440_03_f22_mod_03_info_vis_python.ipynb)|
+|3|Feb  7 & 9    |Small Worlds|[Python Google Colab notebook](week-3/data_340_02_s23_mod_03_small_worlds.ipynb)<br/>[HW2](homework/hw2) - Small worlds, Feb 9 -- 16|
 |4|Feb 14 & 16   |Measuring the Web|
 |5|Feb 21 & 23   |Archiving the Web| [HW2](homework/hw2) - Archiving the Web, Sep 29 -- Oct 11
 |6|Feb 28 & Mar 2|Searching the Web| [HW3](homework/hw3) - Ranking Webpages, Oct 11 -- Oct 20
