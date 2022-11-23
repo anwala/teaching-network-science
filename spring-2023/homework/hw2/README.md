@@ -1,5 +1,5 @@
 # Homework 2 - Small worlds
-**Due:** Thursday, February 16, 2023 by 11:59pm
+**Due:** Thursday, February 23, 2023 by 11:59pm
  *Read the entire assignment before starting.*
 
 ## Assignment

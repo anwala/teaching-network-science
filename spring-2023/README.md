@@ -14,7 +14,7 @@
 |3|Feb  7 & 9    | Network Elements
 |4|Feb 14 & 16   | Small Worlds    | [Python Google Colab notebook](week-3/data_340_02_s23_mod_03_small_worlds.ipynb)<br/>[HW2](homework/hw2) - Small worlds, Feb 16 -- 23 
 |5|Feb 21 & 23   | Small Worlds    |
-|6|Feb 28 & Mar 2|Hubs| [HW3][Python Google Colab notebook](week-4/data_340_02_s23_mod_04_hubs.ipynb)<br/>[HW3](homework/hw3) - Hubs, Feb 28 -- Mar 9
+|6|Feb 28 & Mar 2|Hubs| [Python Google Colab notebook](week-4/data_340_02_s23_mod_04_hubs.ipynb)<br/>[HW3](homework/hw3) - Hubs, Feb 28 -- Mar 9
 |7|Mar 7 & 9     |Hubs| 
 | | Mar 11 -- 19 |**NO CLASS - Spring Break**|
 |8|Mar 21 & 23   |Visualizing Social Networks| [NetworkX example Colab notebook](week-9/data_440_03_f22_mod_09_networkx_example.ipynb)<br/> [d3 example at Observable](https://observablehq.com/@acnwala/force-directed-layout-example-data-440-03-fall-2022) <br/>[HW5](homework/hw5) - Graph partitioning, Nov 3 -- Nov 15

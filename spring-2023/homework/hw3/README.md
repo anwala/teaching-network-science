@@ -1,5 +1,5 @@
 # Homework 3 - Hubs
-**Due:** Thursday, February 23, 2023 by 11:59pm
+**Due:** Thursday, March 9, 2023 by 11:59pm
  *Read the entire assignment before starting.*
 
 ## Assignment
