@@ -65,15 +65,15 @@ Reach out to me if you're unable to get a personal copy. See also,
 
 ## Grading
 
-There will be a total of **105 points** (60 points for assignments, 20 points evenly split between midterm and final exams, and 20 points for participation/attendance/assigned readings), and **5 extra** credits points. I'd advise you to do as many extra credits as possible. Consider them as a safety net.
+There will be a total of **85 points** (50 points for assignments, 10 points for final exams (no midterms), 20 points for participation/attendance/assigned readings), and **5 extra** credits points. I'd advise you to do as many extra credits as possible. Consider them as a safety net.
 
 ### Assignment Types
 
 I will post all assignments on our DATA 340-02 Piazza forum. Your grade in this class will be based on the following components:
 
-**Homework (HW)** - **60** points + **5** extra-credit points
+**Homework (HW)** - **50** points + **5** extra-credit points
 
-* XX homework assignments (HWXX -- HWXX), each worth XX points
+* 5 homework assignments (HW 1 -- HW 5), each worth 10 points
 * *Don't wait until the last minute --- some are hard and time-consuming!*
 * All work must be your own. You may use resources (e.g., Stack Overflow) on the Internet for reference. If you use online resources, you must cite your sources (including URL). Group work on HW assignments is not acceptable.
 
@@ -83,7 +83,7 @@ Participation is very important, it improves learning and contributes additional
 * 1 point maximum per week: Engaging in productive discussions in class: asking/answering questions and contributing new ideas, and posting a solution and/or replying to a question on Piazza
 * 1 point maximum per week: Unannounced in-class quizzes
 
-**Midterm exam** - **10** points
+**No Midterm exam**
 
 **Final exam**   - **10** points
 
@@ -91,7 +91,7 @@ Participation is very important, it improves learning and contributes additional
 
 | Numerical Grade | Letter Grade | | Numerical Grade | Letter Grade |
 | --- | --- | --- | --- | --- |
-| 93 -- 100 | A | | 73 -- 76 | C |
+| 93% -- 100%| A | | 73 -- 76 | C |
 | 90 -- 92 | A- | | 70 -- 72 | C- |
 | 87 -- 89 | B+ | | 67 -- 69 | D+ |
 | 83 -- 86 | B| | 63 -- 66 | D |
