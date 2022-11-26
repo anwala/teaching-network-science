@@ -18,10 +18,11 @@ Strong communities are also weak communities but the converse is not true, in ge
 
 ### Q3 (2 points)
 
-<img src="hw6_q3.png" alt="homework 6, question 3" height="100"><br/>
+Find the best bisection of Zachary’s karate club network by applying the Kernighan–Lin algorithm. You can use the `kernighan_lin_bisection()` function of NetworkX. Compare the resulting bipartition with the natural partition of the network and expose similarities and differences.
 
 ### Q4 (2 points)
 
+<img src="hw6_q3.png" alt="homework 6, question 3" height="150"><br/>
 
 ## Submission
 
