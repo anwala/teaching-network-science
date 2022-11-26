@@ -22,7 +22,7 @@
 |9|Mar 28 & 30   |Directions and Weights     | [HW4](homework/hw4) - Directions and weights, Mar 28 -- Apr 6
 |10|Apr 4 & 6    |Network Models             | [Python Google Colab notebook](week-10/data_340_02_s23_chp_05_network_models.ipynb)<br/>[HW5](homework/hw5) - Network models, Apr 6 -- 13
 |11|Apr 11 & 13  |Network Models             |
-|12|Apr 18 & 20  |Communities                |
+|12|Apr 18 & 20  |Communities                | [Python Google Colab notebook](week-12/data_340_02_s23_chp_06_communities.ipynb)
 |13|Apr 25 & 27  |Communities                |
 |14|May 2 & 4    |                           |
 || Fri, May 5    |*last day of classes*|
