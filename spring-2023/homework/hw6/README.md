@@ -18,7 +18,7 @@ Strong communities are also weak communities but the converse is not true, in ge
 
 ### Q3 (2 points)
 
-<img src="hw6_q2.png" alt="homework 6, question 3" height="100"><br/>
+<img src="hw6_q3.png" alt="homework 6, question 3" height="100"><br/>
 
 ### Q4 (2 points)
 
