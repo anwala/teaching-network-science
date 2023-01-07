@@ -65,7 +65,7 @@ Reach out to me if you're unable to get a personal copy. See also,
 
 ## Grading
 
-There will be a total of **85 points** (50 points for assignments, 10 points for final exams (no midterms), 20 points for participation/attendance/assigned readings), and **5 extra** credits points. I'd advise you to do as many extra credits as possible. Consider them as a safety net.
+There will be a total of **85 points** (50 points for assignments, 15 points for a group project, 5 points for final exam (no midterms), 20 points for participation/attendance/assigned readings), and **5 extra** credits points. I'd advise you to do as many extra credits as possible. Consider them as a safety net.
 
 ### Assignment Types
 
@@ -73,7 +73,7 @@ I will post all assignments on our DATA 340-02 Piazza forum. Your grade in this 
 
 **Homework (HW)** - **50** points + **5** extra-credit points
 
-* 5 homework assignments (HW 1 -- HW 5), each worth 10 points
+* 5 homework assignments (HW 0 -- HW 4), each worth 10 points
 * *Don't wait until the last minute --- some are hard and time-consuming!*
 * All work must be your own. You may use resources (e.g., Stack Overflow) on the Internet for reference. If you use online resources, you must cite your sources (including URL). Group work on HW assignments is not acceptable.
 
@@ -85,7 +85,9 @@ Participation is very important, it improves learning and contributes additional
 
 **No Midterm exam**
 
-**Final exam**   - **10** points
+**Group project**- **15** points
+
+**Final exam**   - **5** points
 
 ### Grading Scale
 
@@ -109,25 +111,27 @@ You have two mutually exclusive options to appeal a grade:
 
 [W&M Spring 2023 academic schedule](https://www.wm.edu/offices/registrar/calendarsandexams/ugcalendars/index.php#spring)
 
-|Week |Lecture Dates|Topic|
+|Week |Lecture Dates|Topic
 |---|---|---|
-|1|Sep  1 &  6|Introduction to Web Science and Web Architecture
-|2|Sep  8 & 13|Introduction to Python
-|3|Sep 15 & 20|Introduction to Info Vis with R, Python
-|4|Sep 22 & 27|Measuring the Web
-|5|Sep 29 & Oct 4|Archiving the Web
-|6|Oct 6  & 11|Searching the Web
-| | Oct 13 -- 16 |**NO CLASS - Fall Break**
-|7|Oct 18 & 20|Social Networks
-|8|Oct 25 & 27|Selection and Social Influence
-|9|Nov 1 & 3|Visualizing Social Networks
-| | Nov 8 |**NO CLASS - Election Day, Go Vote! 🗳️**
-|10|Nov 10 & 15|Disinformation
-|11|Nov 17 & 22|Collective Intelligence and Recommender Systems
-| | Nov 23 -- 27 |**NO CLASS - Thanksgiving Break**
-|12|Nov 29 & Dec 1|Clustering Algorithms
-|13|Dec 6 & 8 |Document Filtering (Classification)
-|| Fri, Dec 9|*last day of classes*
+|1|Jan 26        | Introductions             
+|2|Jan 31 & Feb 2| Network Elements          
+|3|Feb  7 & 9    | Network Elements
+|4|Feb 14 & 16   | Small Worlds              
+|5|Feb 21 & 23   | Small Worlds              
+|6|Feb 28 & Mar 2|Hubs                       
+|7|Mar 7 & 9     |Hubs                       
+| | Mar 11 -- 19 |**NO CLASS - Spring Break**
+|8|Mar 21 & 23   |Directions and Weights     
+| | Mar 27       |*Withdrawal deadline*
+|9|Mar 28 & 30   |Directions and Weights    
+|10|Apr 4 & 6    |Building [StoryGraph](https://web.archive.org/storygraph/)
+|11|Apr 11 & 13  | Group project status updates/Q&A
+|12|Apr 18 & 20  | Group project status updates/Q&A
+|13|Apr 25 & 27  | Group project status updates/Q&A
+|14|May 2 & 4    | Group project status updates/Q&A
+|| Fri, May 5    |*last day of classes*            
+|| Fri, May 12   |                                 
+
 
 ### Add/drop and withdrawal deadlines:
 * Add/drop deadline: February 3, 2023
