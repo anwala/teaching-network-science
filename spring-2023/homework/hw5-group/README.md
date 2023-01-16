@@ -57,7 +57,7 @@ This subtask requires transforming the data into a network model involving nodes
 * Network generation was implemented in documented (comments and ReadMes) Python scripts (not Notebooks). Code is modular (uses separate files/functions) and reusable (no hard-coding). 
 * Report includes problem summary/questions, code snippets, and is clearly written: well-organized and includes few typos/grammatical errors
 
-#### Subtask 3, Visualization (max 12 points):** 
+#### Subtask 3, Visualization (max 12 points):
 This subtask involves implementing a network visualization with Gephi, Networkx, D3 or another instructor-approved tool to visualize the project network. This involves deciding the best way to visualize the network. For example, deciding the network layout (e.g., force-directed vs. circular), color scheme (e.g., color-blind friendly), and what attributes to map to channel (e.g., size, position).
 
 ##### Grading rubric
@@ -65,7 +65,7 @@ This subtask involves implementing a network visualization with Gephi, Networkx,
 * Network visualization was implemented in documented (comments and ReadMes) Python scripts (not Notebooks). Code is modular (uses separate files/functions) and reusable (no hard-coding). 
 * Report includes problem summary/questions, code snippets, and is clearly written: well-organized and includes few typos/grammatical errors
 
-#### Subtask 4, Analysis (max 12 points):** 
+#### Subtask 4, Analysis (max 12 points):
 This subtask involves generating statistics to understand the data and identify useful insights. It could involve presenting relevant summary statistics of the dataset. Additionally, summarizing membership of nodes and links and identifying various network phenomena (e.g., hubs, small worlds) and emphasizing important characteristics (e.g., heterogeneous distribution of node/link properties) of the network.
 
 ##### Grading rubric
