@@ -38,7 +38,7 @@ Each group is responsible for selecting a group leader and assigning subtasks to
 
 The following are the subtasks for the group project.
 
-#### Subtask 1, Data extraction/cleaning (max 12 points):
+#### SUBTASK 1, Data extraction/cleaning (max 12 points):
 This subtask involves extracting the data - the raw material needed to address the project goals. This could also involve cleanup/transformation of the data, deciding what to collect (sample) and what to exclude (ensure to include in report) and saving the data into a machine-readable format (e.g., JSON, CSV). **As a result of the difficulty/uncertainty of this subtask, the member responsible for this subtask would be awarded an initial bonus of 2 points.** I will permit the splitting of the 2 bonus points across all individuals who helped in Subtask 1, proportional to work done.
 
 ##### Grading rubric
@@ -48,7 +48,7 @@ This subtask involves extracting the data - the raw material needed to address t
 * Data extraction was implemented in documented (comments and ReadMes) Python scripts (not Notebooks). Code for generating dataset is modular (uses separate files/functions) and reusable (no hard-coding). 
 * Report includes problem summary/questions, code snippets, and is clearly written: well-organized and includes few typos/grammatical errors
 
-#### Subtask 2, Network generation (max 12 points):
+#### SUBTASK 2, Network generation (max 12 points):
 This subtask requires transforming the data into a network model involving nodes and links to model relationships. This includes deciding what relationships to model and how (e.g., (un)directed vs. (un)weighted) to represent them.
 
 ##### Grading rubric
@@ -57,7 +57,7 @@ This subtask requires transforming the data into a network model involving nodes
 * Network generation was implemented in documented (comments and ReadMes) Python scripts (not Notebooks). Code is modular (uses separate files/functions) and reusable (no hard-coding). 
 * Report includes problem summary/questions, code snippets, and is clearly written: well-organized and includes few typos/grammatical errors
 
-#### Subtask 3, Visualization (max 12 points):
+#### SUBTASK 3, Visualization (max 12 points):
 This subtask involves implementing a network visualization with Gephi, Networkx, D3 or another instructor-approved tool to visualize the project network. This involves deciding the best way to visualize the network. For example, deciding the network layout (e.g., force-directed vs. circular), color scheme (e.g., color-blind friendly), and what attributes to map to channel (e.g., size, position).
 
 ##### Grading rubric
@@ -65,7 +65,7 @@ This subtask involves implementing a network visualization with Gephi, Networkx,
 * Network visualization was implemented in documented (comments and ReadMes) Python scripts (not Notebooks). Code is modular (uses separate files/functions) and reusable (no hard-coding). 
 * Report includes problem summary/questions, code snippets, and is clearly written: well-organized and includes few typos/grammatical errors
 
-#### Subtask 4, Analysis (max 12 points):
+#### SUBTASK 4, Analysis (max 12 points):
 This subtask involves generating statistics to understand the data and identify useful insights. It could involve presenting relevant summary statistics of the dataset. Additionally, summarizing membership of nodes and links and identifying various network phenomena (e.g., hubs, small worlds) and emphasizing important characteristics (e.g., heterogeneous distribution of node/link properties) of the network.
 
 ##### Grading rubric
@@ -74,7 +74,7 @@ This subtask involves generating statistics to understand the data and identify 
 * Analysis is sound and code provided for computing metrics. Documented (comments and Readmes) Python scripts (not Notebooks) were used. Code is modular (uses separate files/functions) and reusable (no hard-coding). 
 * Report includes problem summary/questions, code snippets, and is clearly written: well-organized and includes few typos/grammatical errors
 
-#### Subtask 5, Final report/Presentation (max 8 points assigned to all members):
+#### SUBTASK 5, Final report/Presentation (max 8 points assigned to all members):
 A single report that summarizes all effort taken to accomplish the group tasks. It must present/introduce the problem and have sections that document how each subtask was accomplished to address the project research questions.
 
 ##### Grading rubric
