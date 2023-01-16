@@ -89,12 +89,12 @@ A single report that summarizes all effort taken to accomplish the group tasks. 
 
 ## Submission/Deliverables (due dates)
 
-**Four individual reports:**
+#### Four individual reports:
 Make sure to commit and push your local repo to your private GitHub repo (inside the `group-project` folder).  Your repo should include your report, images, and any code you developed in the course of accomplishing your subtask. Include "Ready to review @anwala" in your final commit message. Here are submission deadlines for the reports:
 * Milestone report 1/5 due Apr 13
 * Milestone report 2/5 due Apr 20
 * Milestone report 3/5 due Apr 27
 * Milestone report 4/5 due May 4
 
-**One final reports:**
+#### One final reports:
 The final report must be written by all group members and submitted on the date of the final exam May 15, 2023 at 2pm ET.
