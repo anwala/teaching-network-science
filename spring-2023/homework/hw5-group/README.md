@@ -51,7 +51,7 @@ This subtask involves extracting the data - the raw material needed to address t
 #### Subtask 2, Network generation (max 12 points):
 This subtask requires transforming the data into a network model involving nodes and links to model relationships. This includes deciding what relationships to model and how (e.g., (un)directed vs. (un)weighted) to represent them.
 
-**Grading rubric**
+##### Grading rubric
 * Network model is capable of addressing research questions
 * Reasonable justifications are provided for network generation decisions
 * Network generation was implemented in documented (comments and ReadMes) Python scripts (not Notebooks). Code is modular (uses separate files/functions) and reusable (no hard-coding). 
@@ -60,7 +60,7 @@ This subtask requires transforming the data into a network model involving nodes
 #### Subtask 3, Visualization (max 12 points):** 
 This subtask involves implementing a network visualization with Gephi, Networkx, D3 or another instructor-approved tool to visualize the project network. This involves deciding the best way to visualize the network. For example, deciding the network layout (e.g., force-directed vs. circular), color scheme (e.g., color-blind friendly), and what attributes to map to channel (e.g., size, position).
 
-**Grading rubric**
+##### Grading rubric
 * Network visualization is legible and helps explore/understand various network phenomena
 * Network visualization was implemented in documented (comments and ReadMes) Python scripts (not Notebooks). Code is modular (uses separate files/functions) and reusable (no hard-coding). 
 * Report includes problem summary/questions, code snippets, and is clearly written: well-organized and includes few typos/grammatical errors
@@ -68,7 +68,7 @@ This subtask involves implementing a network visualization with Gephi, Networkx,
 #### Subtask 4, Analysis (max 12 points):** 
 This subtask involves generating statistics to understand the data and identify useful insights. It could involve presenting relevant summary statistics of the dataset. Additionally, summarizing membership of nodes and links and identifying various network phenomena (e.g., hubs, small worlds) and emphasizing important characteristics (e.g., heterogeneous distribution of node/link properties) of the network.
 
-**Grading rubric**
+##### Grading rubric
 * Analyses was provided to understand the composition of dataset
 * Analyses was provided to address relevant research questions
 * Analysis is sound and code provided for computing metrics. Documented (comments and Readmes) Python scripts (not Notebooks) were used. Code is modular (uses separate files/functions) and reusable (no hard-coding). 
@@ -77,7 +77,7 @@ This subtask involves generating statistics to understand the data and identify 
 #### Subtask 5, Final report/Presentation (max 8 points assigned to all members):
 A single report that summarizes all effort taken to accomplish the group tasks. It must present/introduce the problem and have sections that document how each subtask was accomplished to address the project research questions.
 
-**Grading rubric**
+##### Grading rubric
 
 * Report includes project topic summary and research questions. 
 * Report addresses research questions.
