@@ -71,7 +71,7 @@ There will be a total of **85 points** (50 points for assignments, 15 points for
 
 I will post all assignments on our DATA 340-02 Piazza forum. Your grade in this class will be based on the following components:
 
-**Homework (HW)** - **50** points + **5** extra-credit points
+**Homework (HW)** - **50** points
 
 * 5 homework assignments (HW 0 -- HW 4), each worth 10 points
 * *Don't wait until the last minute --- some are hard and time-consuming!*
@@ -85,9 +85,9 @@ Participation is very important, it improves learning and contributes additional
 
 **No Midterm exam**
 
-**Group project**- **15** points
+**Group project (final exam)**- **20** points
 
-**Final exam**   - **5** points
+**Extra-credit points** - *3* points
 
 ### Grading Scale
 

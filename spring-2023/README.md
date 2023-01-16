@@ -20,13 +20,13 @@
 |8|Mar 21 & 23   |Directions and Weights     | [Python Google Colab notebook](week-8/data_340_02_s23_chp_04_directions_and_weights.ipynb)
 | | Mar 27       |*Withdrawal deadline*|
 |9|Mar 28 & 30   |Directions and Weights     | [HW4](homework/hw4) - Directions and weights, Mar 28 -- Apr 6
-|10|Apr 4 & 6    |Building [StoryGraph](https://web.archive.org/storygraph/) | [Building real-world applications (group project)](homework/hw5_group), Apr 6 -- May 12
+|10|Apr 4 & 6    |Building [StoryGraph](https://web.archive.org/storygraph/) | [Building real-world applications (group project)](homework/hw5-group), Apr 6 -- May 12
 |11|Apr 11 & 13  | Group project status updates/Q&A | Group project, milestone 1/5 due Apr 13
 |12|Apr 18 & 20  | Group project status updates/Q&A | Group project, milestone 2/5 due Apr 20
 |13|Apr 25 & 27  | Group project status updates/Q&A | Group project, milestone 3/5 due Apr 27
 |14|May 2 & 4    | Group project status updates/Q&A | Group project, milestone 4/5 due May 4
 || Fri, May 5    |*last day of classes*             |
-|| Fri, May 12   |                                  | *Group project, milestone 5/5 (Final exam) due May 12*
+|| Fri, May 12   |                                  | *Group project, milestone 5/5 due May 12*
 
 <!--
 |10|Apr 4 & 6    |Network Models             | [Python Google Colab notebook](week-10/data_340_02_s23_chp_05_network_models.ipynb)<br/>[HW5](homework/hw5) - Network models, Apr 6 -- 13
