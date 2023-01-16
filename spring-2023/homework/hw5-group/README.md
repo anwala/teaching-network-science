@@ -41,7 +41,7 @@ The following are the subtasks for the group project.
 #### Subtask 1, Data extraction/cleaning (max 12 points):
 This subtask involves extracting the data - the raw material needed to address the project goals. This could also involve cleanup/transformation of the data, deciding what to collect (sample) and what to exclude (ensure to include in report) and saving the data into a machine-readable format (e.g., JSON, CSV). **As a result of the difficulty/uncertainty of this subtask, the member responsible for this subtask would be awarded an initial bonus of 2 points.** I will permit the splitting of the 2 bonus points across all individuals who helped in Subtask 1, proportional to work done.
 
-**Grading rubric**
+##### Grading rubric
 * Complete network dataset was downloaded
 * Dataset includes fields pertinent to address research questions
 * Dataset is human/machine-readable and well-organized
