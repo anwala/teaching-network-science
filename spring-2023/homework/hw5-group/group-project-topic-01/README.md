@@ -23,7 +23,7 @@ Create a network that explores these phenomena from the following [list of direc
 
 ## List of directors
 
-The [following list of directors](https://drive.google.com/file/d/1fxBY5Me4wfC015z2rrwQlBDjXV12UDcn/view?usp=share_link) consists the `LastName`, `FirstName`, `Sex`, `Ethnicity_Race` (A=Asian, Asian American (incl India), B=Black, I=Indigenous (Native American, Maori), L=Latin American, W=White), `Labels` (H=top 25 highest grossing directors (excluding animation directors) and Q=identifies as LGBTQ"), and `IMDb_URI`s of 101 directors.
+The [following list of directors](100_film_directors.csv) consists the `LastName`, `FirstName`, `Sex`, `Ethnicity_Race` (A=Asian, Asian American (incl India), B=Black, I=Indigenous (Native American, Maori), L=Latin American, W=White), `Labels` (H=top 25 highest grossing directors (excluding animation directors) and Q=identifies as LGBTQ"), and `IMDb_URI`s of 101 directors.
 
 ## Data extraction
 

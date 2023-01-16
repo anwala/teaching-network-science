@@ -26,7 +26,7 @@
 |13|Apr 25 & 27  | Group project status updates/Q&A | Group project, milestone 3/5 due Apr 27
 |14|May 2 & 4    | Group project status updates/Q&A | Group project, milestone 4/5 due May 4
 || Fri, May 5    |*last day of classes*             |
-|| Fri, May 12   |                                  | *Group project, milestone 5/5 due May 12*
+|| Fri, May 15   |                                  | *Group project, milestone 5/5 due May 15*
 
 <!--
 |10|Apr 4 & 6    |Network Models             | [Python Google Colab notebook](week-10/data_340_02_s23_chp_05_network_models.ipynb)<br/>[HW5](homework/hw5) - Network models, Apr 6 -- 13

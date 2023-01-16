@@ -21,8 +21,7 @@ data-340-02/
 ├── hw2
 ├── hw3
 ├── hw4
-├── hw5
-├── hw6
+├── group-project
 ```
 This is where you'd submit all your assignments. Since this is a private Github repo, only you and your collaborators will have access. Please add me as a collaborator:```Settings > Collaborators > Add people > type "anwala" > Press select a collaborator above```.
 
