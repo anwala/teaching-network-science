@@ -60,6 +60,12 @@ $ more film-directors/A/wes-anderson/movies.jsonl
 {"movie_title": "The Grand Budapest Hotel", "music_by": ["Alexandre Desplat"], "directed_by": ["nm0000108"], "gender": "male", "ethnicity": "Caucasian"}
 ```
 
+### Scraping code
+
+I have provided [`imdb_scraper.py`](imdb_scraper.py) to facilitate scraping 
+* Movie URIs from the `Director` section of the Credits pages (e.g., `dir_cred = get_full_credits_for_director('nm0027572')`)
+* Full crew information from the full credits pages of movies (e.g., `full_credits = get_full_crew_for_movie('tt2278388')`)
+
 ## Network generation
 
 Generate a network that permits the exploration of the film director-crew relationships and address the research questions. Use the entire toolkit from this networks course to accomplish this task and justify/explain decisions for encoding nodes, links, directions, weights, etc.

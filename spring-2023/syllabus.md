@@ -14,7 +14,7 @@ Network Science -- Networks are everywhere in our lives: networks of friends on 
 
 ## Course Venue and Time
 
-Integrated Science Center, room 1111. Tuesdays/Thursdays 03:30 -– 4:50 pm
+Integrated Science Center, room 1111. Tuesdays/Thursdays 3:30 -– 4:50 pm
 
 ## Instructor Contact and Office Hours
 
