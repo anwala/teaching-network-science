@@ -63,8 +63,8 @@ $ more film-directors/A/wes-anderson/movies.jsonl
 ### Scraping code
 
 I have provided [`imdb_scraper.py`](imdb_scraper.py) to facilitate scraping 
-* Movie URIs from the `Director` section of the Credits pages (e.g., `dir_cred = get_full_credits_for_director('nm0027572')`)
-* Full crew information from the full credits pages of movies (e.g., `full_credits = get_full_crew_for_movie('tt2278388')`)
+* Movie URIs from the `Director` section of the Credits pages, for example, `dir_cred = get_full_credits_for_director('nm0027572')`.
+* Full crew information from the full credits pages of movies, for example, `full_credits = get_full_crew_for_movie('tt2278388')`.
 
 ## Network generation
 
