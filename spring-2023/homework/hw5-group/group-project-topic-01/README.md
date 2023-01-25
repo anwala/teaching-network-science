@@ -56,9 +56,11 @@ film-directors/
 Consider storing movie details in a module form in a JSONL file, e.g.,
 ```
 $ more film-directors/A/wes-anderson/movies.jsonl
-{"movie_title": "Isle of Dogs", "music_by": ["Alexandre Desplat"], "directed_by": ["nm0000108"], "gender": "male", "ethnicity": "Caucasian"}
-{"movie_title": "The Grand Budapest Hotel", "music_by": ["Alexandre Desplat"], "directed_by": ["nm0000108"], "gender": "male", "ethnicity": "Caucasian"}
+{"movie_title": "Isle of Dogs", "music_by": ["Alexandre Desplat"], "directed_by": ["nm0000108"], "gender": "male", "ethnicity": "W"}
+{"movie_title": "The Grand Budapest Hotel", "music_by": ["Alexandre Desplat"], "directed_by": ["nm0000108"], "gender": "male", "ethnicity": "W"}
 ```
+
+Discard all non-feature films from your dataset. Use `imdb_scraper.py.is_feature_film()` to test for feature films (i.e. Films at least 70 minutes long, shown in a cinema for a paying audience; or promoted similarly for TV or streaming).
 
 ### Scraping code
 
