@@ -5,16 +5,23 @@ Alexander C. Nwala
 W&M DATA 340-02 - Network Science
 
 Requirements:
-* BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
-* NwalaTextUtils: https://github.com/oduwsdl/NwalaTextUtils
+* BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/ (pip install beautifulsoup4)
+* NwalaTextUtils: https://github.com/oduwsdl/NwalaTextUtils (pip install NwalaTextUtils)
+* PyMovieDb: https://github.com/itsmehemant7/PyMovieDb (pip install PyMovieDb)
+* isoduration: https://github.com/bolsote/isoduration (pip install isoduration)
 '''
+import json
 
-from warnings import warn
 from bs4 import BeautifulSoup
+from datetime import timedelta
+from isoduration import parse_duration
+from warnings import warn
 
 from NwalaTextUtils.textutils import derefURI
 from NwalaTextUtils.textutils import genericErrorInfo
 from NwalaTextUtils.textutils import getPgTitleFrmHTML
+
+from PyMovieDb import IMDB
 
 def get_full_credits_for_director(dir_id):
 
@@ -144,3 +151,30 @@ def get_full_crew_for_movie(title_id):
         full_credits['full_credits'].append({'role': h, 'crew': crew})
 
     return full_credits
+
+def is_feature_film(title_id):
+
+    imdb = IMDB()
+    res = imdb.get_by_id(title_id)
+    
+    try:
+        res = json.loads(res)
+        #duration example: PT2H7M
+        duration = parse_duration(res.get('duration', ''))
+    except:
+        genericErrorInfo()
+        return False
+    
+    delta = timedelta(
+        days=int(duration.date.years)*365 + int(duration.date.months)*30 + int(duration.date.days), 
+        weeks=int(duration.date.weeks),
+        hours=int(duration.time.hours),
+        minutes=int(duration.time.minutes),
+        seconds=int(duration.time.seconds)
+    )
+
+    if( delta.total_seconds() >= 70*60 ):
+        #feature film must be at least 70 minutes long
+        return True
+
+    return False
