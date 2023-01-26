@@ -2,11 +2,11 @@
 
 # W&M DATA 340-02 - Network Science, Spring 2023 Syllabus
 
-[Jump to Summary Schedule](#summary-schedule) | [Self](https://github.com/anwala/teaching-network-science/blob/main/spring-2022/syllabus.md)
+[Jump to Summary Schedule](#summary-schedule) | [Self](https://github.com/anwala/teaching-network-science/blob/main/spring-2023/syllabus.md)
 
 ## Course Overview
 
-Network Science -- Networks are everywhere in our lives: networks of friends on social media, the Web, networks of neurons in our brains, etc. It's amazing that such a simple representation --- dots and lines --- can capture a variety of relationships, whether simple or complex.
+Networks are everywhere in our lives: networks of friends on social media, the Web, networks of neurons in our brains, etc. It's amazing that such a simple representation --- dots and lines --- can capture a variety of relationships, whether simple or complex.
 
 **Catalog Description:** In this course, we will survey a broad range of fundamental topics in network science, relevant to students from data/computer science and engineering, informatics, business, biology, physics, statistics, social sciences, etc. For example, we will explore the properties of social networks and the key role of hubs, and how directed and weighted networks affect the spread of information and misinformation in social media. These topics are important and useful in many job sectors from marketing to technology, management to design, and from biology to the arts and humanities. 
 
@@ -65,7 +65,7 @@ Reach out to me if you're unable to get a personal copy. See also,
 
 ## Grading
 
-There will be a total of **85 points** (50 points for assignments, 15 points for a group project, 5 points for final exam (no midterms), 20 points for participation/attendance/assigned readings), and **5 extra** credits points. I'd advise you to do as many extra credits as possible. Consider them as a safety net.
+There will be a total of **94 points** (50 points for assignments, 20 points for final exam (no midterms), 20 points for participation/attendance/assigned readings), and **4 extra** credits points. I'd advise you to do as many extra credits as possible. Consider them as a safety net.
 
 ### Assignment Types
 
@@ -87,7 +87,7 @@ Participation is very important, it improves learning and contributes additional
 
 **Group project (final exam)**- **20** points
 
-**Extra-credit points** - *3* points
+**Extra-credit points** - *4* points
 
 ### Grading Scale
 
@@ -145,7 +145,7 @@ This course was originally developed by my Post-doc supervisor [Dr. Filippo Menc
 
 ### Piazza
 
-Each student must check the class [Piazza (DATA 340-02)](XX) daily. You should use our class Piazza forum to ask and answer general course-related questions. I will use Piazza to notify you about important updates (assignment deadline changes, office hours cancellations, etc.).
+Each student must check the class [Piazza (DATA 340-02)](https://piazza.com/class/lae695p1c2u5y7) daily. You should use our class Piazza forum to ask and answer general course-related questions. I will use Piazza to notify you about important updates (assignment deadline changes, office hours cancellations, etc.).
 
 ### Participation
 
