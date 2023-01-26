@@ -1,4 +1,4 @@
-# Homework 1 - Writing HW Reports
+# Homework 0 - Writing HW Reports
 **Due:** Thursday, February 2, 2023 by 11:59pm
 *Read the entire assignment before starting.*
 
