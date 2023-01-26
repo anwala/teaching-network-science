@@ -8,7 +8,7 @@ Unless otherwise stated, for each HW assignment, you are required to write a rep
 
 You may use existing code, but you **must** document and reference where you adapted the code -- give credit where credit is due! *Use without attribution is plagiarism!*  **All reports must have a section labeled "References" for listing the outside resources you consulted.**
 
-Each report may be written in [Google Collab notebooks](#google-collab-notebooks), [Markdown](#markdown), or [LaTeX](#latex). Assignments may include instructions on what tool to use otherwise you may use any. For an example of what I'm expecting, you can look at a [previous student's LaTeX report](report_exemplar.pdf). Assignments must be submitted on Github.
+Each report may be written in [Google Collab notebooks](#google-collab-notebooks), [Markdown](#markdown), or [LaTeX](#latex). Assignments may include instructions on what tool to use otherwise you may use any. For an example of what I'm expecting, you can look at a [previous student's LaTeX report](https://github.com/anwala/teaching-web-science/blob/main/fall-2022/homework/hw0/report_exemplar.pdf). Assignments must be submitted on Github.
 
 For this assignment you have 2 tasks outlined by Q1 and Q2.
 
@@ -52,7 +52,7 @@ This is where you'd submit all your assignments. Since this is a private Github 
 
 ### Google collab notebook
 
-1. From the `hw0` folder of your private GitHub assignment repo, create a new Markdown file named `hw0_report.md` and copy the content from [data_340_02_report_template.ipynb](https://github.com/anwala/teaching-network-science/blob/main/spring-2023/week-1/data_340_02_report_template.ipynb) into it. 
+1. From the `hw0` folder of your private GitHub assignment repo, create a new Python notebook file (`hw0_report.ipynb`) by editing the content of [data_340_02_report_template.ipynb](https://github.com/anwala/teaching-network-science/blob/main/spring-2023/week-1/data_340_02_report_template.ipynb). 
 
 2. Modify the content to include your name, class (DATA 340-02), assignment number/title, and dates for this exercise.
 
