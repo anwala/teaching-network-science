@@ -1,5 +1,5 @@
 # Homework 1 - Network elements
-**Due:** Thursday, February 9, 2023 by 11:59pm
+**Due:** Tuesday, February 14, 2023 by 11:59pm
  *Read the entire assignment before starting.*
 
 ## Assignment

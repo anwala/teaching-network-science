@@ -10,7 +10,7 @@
 |Week |Lecture Dates|Topic|Homeworks (Date assigned -- Due Date)
 |---|---|---|---|
 |1|Jan 26        | Introductions             | [HW0](homework/hw0) - Writing reports, Jan 26 -- Feb 2
-|2|Jan 31 & Feb 2| Network Elements          | [Python Google Colab notebook](week-2/data_340_02_s23_chp_01_network_elements.ipynb)<br/> [HW1](homework/hw1) - Network elements, Feb 2 -- 9
+|2|Jan 31 & Feb 2| Network Elements          | [Python Google Colab notebook](week-2/data_340_02_s23_chp_01_network_elements.ipynb)<br/> [HW1](homework/hw1) - Network elements, Feb 2 -- 14
 |3|Feb  7 & 9    | Network Elements
 |4|Feb 14 & 16   | Small Worlds              | [Python Google Colab notebook](week-3/data_340_02_s23_chp_02_small_worlds.ipynb)<br/>[HW2](homework/hw2) - Small worlds, Feb 16 -- 23 
 |5|Feb 21 & 23   | Small Worlds              |
