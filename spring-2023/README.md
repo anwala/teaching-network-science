@@ -1,4 +1,4 @@
-# W&M DATA 340-02 - Web Science, Spring 2023
+# W&M DATA 340-02 - Network Science, Spring 2023
 
 ## Links
 
