@@ -10,7 +10,7 @@ Write a report that contains the answers and *explains how you arrived at the an
 
 ### Q1 (3 points)
 
-Go through the [tutorial on Network elements](https://github.com/anwala/teaching-network-science/blob/main/spring-2023/week-2/data_340_02_s23_mod_02_network_elements.ipynb).
+Go through the [tutorial on Network elements](https://github.com/anwala/teaching-network-science/blob/main/spring-2023/week-2/data_340_02_s23_chp_01_network_elements.ipynb).
 
 Implement functions for Exercises 1 -- 3    
     
