@@ -10,7 +10,7 @@ Write a report that contains the answers and *explains how you arrived at the an
 
 ### Q1 (3 points)
 
-Go through the [tutorial on Small worlds](https://github.com/anwala/teaching-network-science/blob/main/spring-2023/week-3/data_340_02_s23_mod_03_small_worlds.ipynb).
+Go through the [tutorial on Small worlds](https://github.com/anwala/teaching-network-science/blob/main/spring-2023/week-3/data_340_02_s23_chp_02_small_worlds.ipynb).
 
 Perform exercises 1 -- 3    
     
