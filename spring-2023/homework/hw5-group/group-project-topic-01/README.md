@@ -43,9 +43,9 @@ film-directors/
 │   └── luc-besson
 │       └── movies.jsonl
 ...
-├── X
-├── Y
-└── Z
+├── x
+├── y
+└── z
 ```
 OR (organized by IMBb page identifiers), e.g.,
 ```
