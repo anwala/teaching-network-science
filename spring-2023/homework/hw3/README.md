@@ -4,7 +4,7 @@
 
 ## Assignment
 
-Write a report that contains the answers and *explains how you arrived at the answers* to the following questions. Before starting, you are encouraged to review the [Hubs Python Google Colab notebook](https://github.com/anwala/teaching-network-science/blob/main/spring-2023/week-3/data_340_02_s23_mod_04_hubs.ipynb). Name your report for this assignment `hw3_report` with the proper file extension.
+Write a report that contains the answers and *explains how you arrived at the answers* to the following questions. Before starting, you are encouraged to review the [Hubs Python Google Colab notebook](https://github.com/anwala/teaching-network-science/blob/main/spring-2023/week-4/data_340_02_s23_chp_03_hubs.ipynb). Name your report for this assignment `hw3_report` with the proper file extension.
 
 A common use of the word "hub" in everyday speech is to describe airports that serve many routes (direct flights). Load the [OpenFlights US flight network](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/raw/master/datasets/openflights/openflights_usa.graphml.gz) into a NetworkX graph to answer the following questions
 
