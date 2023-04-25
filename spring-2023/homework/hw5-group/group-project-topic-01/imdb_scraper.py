@@ -80,7 +80,7 @@ def get_full_credits_for_director(dir_id):
         
     return dir_credits
 
-def get_full_crew_for_movie(title_id):
+def get_full_crew_for_movie(title_id, set_imdb_details=False):
 
     def get_crew_table_dets(crew_tab):
     
@@ -138,7 +138,7 @@ def get_full_crew_for_movie(title_id):
         warn(f'len(headers) != len(tables), check for result for integrity: {uri}')
 
 
-    full_credits = {'title_uri': uri, 'title': title, 'full_credits': []}
+    full_credits = {'title_uri': uri, 'title': title, 'full_credits': [], 'imdb_details': get_movie_imdb_details(title_id) if set_imdb_details is True else {}}
     for i in range(len(headers)):
         
         h = headers[i]
@@ -152,18 +152,33 @@ def get_full_crew_for_movie(title_id):
 
     return full_credits
 
-def is_feature_film(title_id):
-
-    imdb = IMDB()
-    res = imdb.get_by_id(title_id)
+def get_movie_imdb_details(title_id):
     
     try:
-        res = json.loads(res)
-        #duration example: PT2H7M
-        duration = parse_duration(res.get('duration', ''))
+        imdb = IMDB()
+        movie = imdb.get_by_id(title_id)
+        return json.loads(movie)
     except:
         genericErrorInfo()
-        return False
+        return {}
+
+def get_movie_duration_seconds(title_id, movie=None):
+
+    try:
+        if( movie is None ):
+            imdb = IMDB()
+            movie = imdb.get_by_id(title_id)
+            movie = json.loads(movie)
+
+        #duration example: PT2H7M
+        duration = movie.get('duration', '')
+        if( duration is None or duration == '' ):
+            return -1
+            
+        duration = parse_duration(duration)
+    except:
+        genericErrorInfo()
+        return -1
     
     delta = timedelta(
         days=int(duration.date.years)*365 + int(duration.date.months)*30 + int(duration.date.days), 
@@ -173,7 +188,56 @@ def is_feature_film(title_id):
         seconds=int(duration.time.seconds)
     )
 
-    if( delta.total_seconds() >= 70*60 ):
+    return delta.total_seconds()
+
+
+def is_feature_film(title_id, movie=None):
+
+    if( get_movie_duration_seconds(title_id, movie=movie) >= 70*60 ):
+        #feature film must be at least 70 minutes long
+        return True
+
+    return False
+
+def is_feature_film_v2(title_id):
+
+    full_credits = {}
+    uri = f'https://www.imdb.com/title/{title_id}/'
+    html_pg = derefURI(uri)
+
+    try:
+        soup = BeautifulSoup(html_pg, 'html.parser')
+    except:
+        genericErrorInfo()
+        return False
+
+    header = soup.find('h1')
+    if( header is None ):
+        return False
+
+    year_rating_duration = header.find_next('ul', class_='ipc-inline-list')
+    if( len(year_rating_duration) == 0 ):
+        return False
+    year_rating_duration = list(year_rating_duration)
+
+    #duration example: 1h 39m
+    duration = year_rating_duration[-1].text.split(' ')
+
+    total_seconds = 0
+    for d in duration:
+
+        try:
+            d = d.strip()
+            if( d.endswith('h') ):
+                total_seconds += int(d.replace('h', '')) * 60 * 60
+            elif( d.endswith('m') ):
+                total_seconds += int(d.replace('m', '')) * 60
+            elif( d.endswith('s') ):
+                total_seconds += int(d.replace('s', ''))
+        except:
+            genericErrorInfo()
+
+    if( total_seconds >= 70*60 ):
         #feature film must be at least 70 minutes long
         return True
 
