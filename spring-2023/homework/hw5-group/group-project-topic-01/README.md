@@ -18,7 +18,7 @@ Create a network that explores these phenomena from the following [list of direc
 ## Research Questions
 
 * How widespread is the phenomenon of directors re-using the same crew? Do renowned directors (and women/minority directors) tend to work persistently with the same key collaborators and less recognized directors tend to work with shifting groups of collaborators? 
-* How will you characterize the film-director network? What are the properties (Small world, triangles aka clustering coefficient, density/sparcity)? 
+* How will you characterize the film-director network? What are the properties (Average path length, triangles aka clustering coefficient, density/sparcity)? 
 * Did you find any interesting nodes/links?
 
 ## List of directors
